@@ -15,7 +15,5 @@ const lengthOfLastWord = (s) => {
   return lastWord.length;
 };
 
-const result = lengthOfLastWord('heo')
-console.log('result', result)
 // @lc code=end
 
