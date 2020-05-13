@@ -27,7 +27,5 @@ const isPalindrome = s => {
   return validString === validString.split('').reverse().join('')
 };
 
-const result = isPalindrome(' a')
-console.log('result', result)
 // @lc code=end
 
